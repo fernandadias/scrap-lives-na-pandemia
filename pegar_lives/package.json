@@ -1,0 +1,24 @@
+{
+  "name": "youtube-scrap-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "get-lives.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandadias/scrap-lives-na-pandemia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandadias/scrap-lives-na-pandemia/issues"
+  },
+  "homepage": "https://github.com/fernandadias/scrap-lives-na-pandemia#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "puppeteer": "^10.1.0",
+    "stringfy": "0.0.12"
+  }
+}
